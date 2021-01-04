@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my github. Below are some of my interests outside of work.
 
 You can use the [editor on GitHub](https://github.com/joypark/joypark.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
