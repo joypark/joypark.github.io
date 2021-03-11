@@ -4,7 +4,7 @@ Machine Learning with the traditional stocks, algorithmic decision making, has b
 
 I like to write and attempt at creating an algorithm for trading cryptocurrencies to better my own trading interests.
 
-If interested, please take a look at my ![TradingView](/images/tvlogo.png =250x250) [TradingView](https://www.tradingview.com/u/ChaiQixuan/#published-scripts).
+If interested, please take a look at my ![TradingView](/images/tvlogo.png|width="300" height="300") [TradingView](https://www.tradingview.com/u/ChaiQixuan/#published-scripts).
 
 
 
