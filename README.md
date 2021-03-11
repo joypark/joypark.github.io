@@ -6,7 +6,7 @@ I like to write and attempt at creating an algorithm for trading cryptocurrencie
 
 If interested, please take a look at my [TradingView](https://www.tradingview.com/u/ChaiQixuan/#published-scripts).
 
-![TradingView](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tradingview.com%2F&psig=AOvVaw0xU1qqYTLQQBmuBsYHDlRZ&ust=1615511451909000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjO9aOHp-8CFQAAAAAdAAAAABAD)
+![TradingView](/images/tvlogo.png)
 
 
 Along with creating algo trading uses, I like to work on small security projects and dissect malwares for my own personal learning processes.
