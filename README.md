@@ -4,9 +4,9 @@ Machine Learning with the traditional stocks, algorithmic decision making, has b
 
 I like to write and attempt at creating an algorithm for trading cryptocurrencies to better my own trading interests.
 
-If interested, please take a look at my ![TradingView](/images/tvlogo.png){:height="50px" width="100px"} [TradingView](https://www.tradingview.com/u/ChaiQixuan/#published-scripts).
+If interested, please take a look at my  [TradingView](https://www.tradingview.com/u/ChaiQixuan/#published-scripts).
 
-
+![TradingView](/images/tvlogo.png){:height="400px" width="400px"}
 
 Along with creating algo trading uses, I like to work on small security projects and dissect malwares for my own personal learning processes.
 
