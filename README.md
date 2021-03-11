@@ -7,7 +7,7 @@ Along with creating algo trading uses, I like to work on small security projects
 
 I am editing this on [editor on Github](https://github.com/joypark/joypark.github.io/edit/main/README.md) from my nova.panic app on apple.
 
-I also have a personal [website](qixuan.me) that reflects my own resume and interests. 
+I also have a personal [website](https://qixuan.me) that reflects my own resume and interests. 
 
 You can use the [editor on GitHub](https://github.com/joypark/joypark.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
