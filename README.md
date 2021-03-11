@@ -6,8 +6,6 @@ I like to write and attempt at creating an algorithm for trading cryptocurrencie
 
 If interested, please take a look at my [TradingView](https://www.tradingview.com/u/ChaiQixuan/#published-scripts).
 
-![TradingView](/images/tvlogo.png){:height="100px" width="200px"}
-
 Along with creating algo trading uses, I like to work on small security projects and dissect malwares for my own personal learning processes.
 
 I am editing this on [editor on Github](https://github.com/joypark/joypark.github.io/edit/main/README.md) from my nova.panic app on apple.
