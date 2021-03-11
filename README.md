@@ -1,3 +1,6 @@
+title: Qixuan Chai
+description: A quick GitHub page for fun
+
 ## Welcome to my GitHub. Below are some of my interests outside of work.
 
 Machine Learning with the traditional stocks, algorithmic decision making, has been around for a while. And it has been utilized largely by institutions to provide them with a higher edge than the retail traders.
